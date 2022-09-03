@@ -1,0 +1,19 @@
+Catchfire: 
+
+child pickpocket makes a dc18 sleight of hand attempt at a player.
+
+fail:
+1-3    2d6*level gold 
+4-10   d6 gold
+10-17  d4 gold 
+success:
+18-20  player sees grubby beggar making a swat for loose change
+20+    player sees a very sophisticated pickpocketing 
+
+
+insight:
+1-5   these kids look pretty tough
+6-20  these kids absolutely don't stand a chance against you
+
+history:
+15+   

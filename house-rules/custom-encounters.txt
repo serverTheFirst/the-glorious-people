@@ -1,0 +1,1 @@
+skill checks are not just pass/fail. in some cases there is a table you are rolling against, in which certain numbers yield certain results.

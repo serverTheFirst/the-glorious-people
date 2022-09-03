@@ -1,3 +1,13 @@
 # critical-roll-tables
 
+Players will roll against tables for critical hits and critical misses.
+
+* Critical Hit In Combat:
+
+* Critical Miss In Combat:
+
+* Critical Miss Skill Check:
+
+* Critical Hit Skill Check:
+
 
