@@ -1,0 +1,9 @@
+
+
+
+
+Name: TBD
+Race: half-orc
+Level: 17
+
+The leader of a faction of orcs called the [faction-name]. This faction is the fiercest and most warmongering of all of the great eastern orcs.
